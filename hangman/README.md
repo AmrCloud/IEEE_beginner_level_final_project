@@ -26,7 +26,7 @@ A fun terminal-based Hangman game written in Dart. Choose your difficulty and ca
 
 ---
 
-## 🧠 How It Works (Simplified)
+## 🧠 How It Works 
 
 - The game starts by asking for your difficulty and category.
 - It picks a word randomly based on your choices using `Random`.
